@@ -1,0 +1,7 @@
+{
+  "name": "Omar-franco-backend",
+  "version": "0.0.1",
+  "description": "Backend para la web",
+  "main": "index.js",
+  "license": "MIT"
+}
